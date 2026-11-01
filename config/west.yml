@@ -9,6 +9,7 @@ manifest:
     - name: caksoylar
       url-base: https://github.com/caksoylar
   projects:
+    - name: zmk
       remote: cormoran
       revision: v0.3-branch+dya
       import: app/west.yml
